@@ -1,6 +1,6 @@
-<div>
+``` html
 <hr>
-<h1>ANGULAR</h1>
+<h1  >ANGULAR</h1>
 <img class="img-center" src="logo-angular.png" alt="logo-angular">
 <nav>
 <ul>
@@ -47,4 +47,4 @@ h2 {
 }
 </style>
 <hr>
-</div>
+
