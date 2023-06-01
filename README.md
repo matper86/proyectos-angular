@@ -1,3 +1,5 @@
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
 <hr>
 <h1>ANGULAR</h1>
 <img class="img-center" src="logo-angular.png" alt="logo-angular">
@@ -12,9 +14,8 @@
 h1 {
     color: #1976d2;
     text-align: center;
-    width: initial;
-    margin-right: auto;
-    margin-right: auto;
+    padding: 0;
+    margin: 0;
 }
 .img-center {
     margin: 0 auto;
@@ -32,7 +33,6 @@ li {
     text-align: center;
     display:inline-block;
     margin: 15px;
-;
 }
 a {
     text-decoration: none;
@@ -42,11 +42,11 @@ a {
     padding: 5px;
     border: 1px solid #1976d2 ;
 }
-a:hover{}
 h2 {
     color: #1976d2;
     text-align: center;
 }
 </style>
 <hr>
-<h2>GLOSARIO</h2>
+</div>
+</div>
