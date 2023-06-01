@@ -1,7 +1,13 @@
 <hr>
 <h1>ANGULAR</h1>
 <img class="img-center" src="logo-angular.png" alt="logo-angular">
-<a href="https://angular.io/docs">Documentacion</a>
+<nav>
+<ul>
+<li><a href="https://angular.io/docs">Documentacion</a></li>
+<li><a href="https://angular.io/docs">Documentacion</a></li>
+<li><a href="https://angular.io/docs">Documentacion</a></li>
+</ul>
+</nav>
 <style>
 h1 {
     color: #1976d2;
@@ -16,17 +22,27 @@ h1 {
     max-width: 100px;
     border-radius: 5px;
 }
-a {
-    color: #1976d2;
-    border-radius: 8px;
-    text-decoration: none;
-    width:300px;
-    height:150px;
-    padding:5px;
-    border: 1px solid #1976d2 ;
-    margin-left: auto;
-    margin-right: auto;
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
 }
+li {
+    text-align: center;
+    display:inline-block;
+    margin: 15px;
+;
+}
+a {
+    text-decoration: none;
+    display: block;
+    color: #1976d2;
+    border-radius: 10px;
+    padding: 5px;
+    border: 1px solid #1976d2 ;
+}
+a:hover{}
 h2 {
     color: #1976d2;
     text-align: center;
