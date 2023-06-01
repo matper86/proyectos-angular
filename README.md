@@ -1,5 +1,4 @@
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
+<div>
 <hr>
 <h1>ANGULAR</h1>
 <img class="img-center" src="logo-angular.png" alt="logo-angular">
@@ -48,5 +47,4 @@ h2 {
 }
 </style>
 <hr>
-</div>
 </div>
