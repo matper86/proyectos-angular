@@ -8,7 +8,7 @@
 
 `ng new proyecto`
 
-Es codigo creo un nuevo proyecto, donde proyecto va a ser el nombre personalizado de tu proyecto.
+Este codigo crea un nuevo proyecto, donde proyecto va a ser el nombre personalizado del proyecto en cuestion.
 
 `ng serve -o`
 
