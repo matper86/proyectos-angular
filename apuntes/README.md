@@ -57,6 +57,15 @@ ng serve
 ```
 Lanzar servidor.
 ```
+Build at: 2023-06-04T20:59:28.965Z - Hash: e419fabf3a2dc563 - Time: 40196ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+
+√ Compiled successfully.
+```
+Hacer clic en el enlace **http://localhost:4200/**, para cargar en el navegador predeterminado, con **Ctrl + C**, serás el servidor.
+```
 ng serve -o
 ```
-Lanzar servidor y abrir el navegador por defecto automáticamente.
+Lanzar servidor y abre el navegador por defecto automáticamente.

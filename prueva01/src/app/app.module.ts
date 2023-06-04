@@ -4,12 +4,16 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { ConchaComponent } from './pija/concha/concha.component';
+import { SucioComponent } from './culo/sucio/sucio.component';
+import { LimpioComponent } from './culo/limpio/limpio.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    ConchaComponent
+    ConchaComponent,
+    SucioComponent,
+    LimpioComponent
   ],
   imports: [
     BrowserModule
