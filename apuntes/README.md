@@ -10,10 +10,10 @@ Instala **CLI** de manera global en la computadora (Ejecutar en consola).
 
 ## Crear nuevo proyecto
 
-| Codigo            | Descripcion                                                                                       |
-|-------------------|---------------------------------------------------------------------------------------------------|
+| Código          | Descripción                                                                                       |
+|-----------------|---------------------------------------------------------------------------------------------------|
 | `ng new my-app` | Crea un nuevo proyecto, donde **my-app**, será el nombre personalizado de nuestro nuevo proyecto. |
-|`ng n my-app`|Metodo abreviado.|
+| `ng n my-app`   | Metodo abreviado.                                                                                 |
 
 ```
 ? Would you like to add Angular routing? (y/N)
