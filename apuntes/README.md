@@ -33,9 +33,9 @@ Puedes reponder **CSS** como hoja de estilo, en principio.
 ```
 ng generate component shared/header
 ```
-Crea un nuevo componente.
+Crea un nuevo componente, donde *Shared/header*, será una nombre personalizado de una carpeta principal y una subcarpeta.
 ```
-ng g c shared/header`
+ng g c shared/header
 ```
 Metodo abreviado.
 
