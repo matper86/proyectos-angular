@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+header {
+  background-color: black;
+  color: orange;
+  font-family: Arial;
+  font-size: 24px;
+  text-align: center;
+}
+logo {
+  border-radius: 50px;
+}
+a-style {
+
+}
