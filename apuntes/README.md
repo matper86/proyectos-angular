@@ -3,15 +3,21 @@
 
 ## Instalar CLI
 
-`npm install -g @angular/cli`
+```
+npm install -g @angular/cli
+```
 
 Instala **CLI** de manera global en la computadora (Ejecutar en consola).
 
 ## Crear nuevo proyecto
-
+```
 `ng new my-app`
-
-Crea un nuevo proyecto, donde **my-app**, sera el nombre personalizado de nuestro nuevo proyecto, tambien puedes usar `ng n my-app`.
+```
+Abreviado
+```
+ng n my-app
+```
+Crea un nuevo proyecto, donde **my-app**, sera el nombre personalizado de nuestro nuevo proyecto.
 
 ```
 ? Would you like to add Angular routing? (y/N)
@@ -27,24 +33,28 @@ Less   [ http://lesscss.org                                             ]
 Puedes reponder **CSS** como hoja de estilo, en principio.
 
 ## Crear nuevo componente
-
-`ng generate component shared/header` 
-
+```
+ng generate component shared/header` 
+```
 Crea un nuevo componente, tambien puedes usar `ng g c shared/header`.
 
 ## Crear nuevo servicio
-
-`ng generae service ruta/my-service` 
-
+```
+ng generae service ruta/my-service
+```
 Crea un nuevo servicio,donde **ruta/my-servivio**, sera la ruta y el nombre personalizado del nuevo servivio, tambien puedes usar `ng g s ruta/my-service`.
 
 ## Lanza un servidor
+```
+ng serve
+```
+Lanzar servidor.
+```
+ng serve -o
+```
+Lanzar servidor y abrir el navegador por defecto automáticamente.
 
-- `ng serve` Lanzar servidor.
-
-- `ng serve -o` Lanzar servidor y abrir el navegador por defecto automáticamente.
-
----
+---------------------------------------------------------------------------------------------------------------
 
 # Apuntes
 
