@@ -10,14 +10,11 @@ Instala **CLI** de manera global en la computadora (Ejecutar en consola).
 
 ## Crear nuevo proyecto
 
-```
-ng new my-app
-```
-Crea un nuevo proyecto, donde **my-app**, será el nombre personalizado de nuestro nuevo proyecto.
-```
-ng n my-app
-```
-Metodo abreviado.
+| Codigo            | Descripcion                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------------|
+| `ng new my-app` | Crea un nuevo proyecto, donde **my-app**, será el nombre personalizado de nuestro nuevo proyecto. |
+|`ng n my-app`|Metodo abreviado.|
+
 ```
 ? Would you like to add Angular routing? (y/N)
 ```
@@ -27,7 +24,7 @@ Puedes responder **N** en principio, luego puedes agregar las rutas manualmente.
 > CSS
 SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]
 Sass   [ https://sass-lang.com/documentation/syntax#the-indented-syntax ]
-Less   [ https://lesscss.org                                             ]
+Less   [ https://lesscss.org                                            ]
 ```
 Puedes reponder **CSS** como hoja de estilo, en principio.
 
