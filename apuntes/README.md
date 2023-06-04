@@ -33,7 +33,7 @@ Puedes reponder **CSS** como hoja de estilo, en principio.
 ```
 ng generate component shared/header
 ```
-Crea un nuevo componente, donde **shared/header**, será una nombre personalizado de una carpeta principal y una subcarpeta.
+Crea un nuevo componente, donde **shared/header**, será el nombre personalizado de una carpeta y de una subcarpeta.
 ```
 ng g c shared/header
 ```
@@ -44,7 +44,7 @@ Metodo abreviado.
 ```
 ng generate service ruta/my-service
 ```
-Crea un nuevo servicio, donde **ruta/my-servivio**, será la ruta y el nombre personalizado del nuevo servivio.
+Crea un nuevo servicio, donde **ruta/my-servicio**, será el nombre personalizado de carpeta  y de un servicio.
 ```
 ng g s ruta/my-service
 ```
@@ -64,7 +64,7 @@ Build at: 2023-06-04T20:59:28.965Z - Hash: e419fabf3a2dc563 - Time: 40196ms
 
 √ Compiled successfully.
 ```
-Hacer clic en el enlace **http://localhost:4200/**, para cargar en el navegador predeterminado, con **Ctrl + C**, serás el servidor.
+Hacer clic en el enlace **http://localhost:4200/**, para cargar en el navegador predeterminado, con **Ctrl + C**, cerras el servidor.
 ```
 ng serve -o
 ```
