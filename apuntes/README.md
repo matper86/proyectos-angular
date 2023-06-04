@@ -5,25 +5,17 @@
 
 Instala **CLI** de manera global en la computadora (Ejecutar en consola).
 
----
-
 `ng new my-app`
 
 Crea un nuevo proyecto, donde **my-app**, sera el nombre personalizado de nuestro nuevo proyecto, tambien puedes usar `ng n my-app`.
-
----
 
 `ng generate component shared/header` 
 
 Crea un nuevo componente, tambien puedes usar `ng g c shared/header`.
 
----
-
 `ng generae service ruta/my-service` 
 
 Crea un nuevo servicio,donde **ruta/my-servivio**, sera la ruta y el nombre personalizado del nuevo servivio, tambien puedes usar `ng g s ruta/my-service`.
-
----
 
 `ng serve` 
 
