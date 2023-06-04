@@ -1,29 +1,48 @@
 
-# Resumen de comandos
+# ANGULAR
+
+## Instalar CLI
 
 `npm install -g @angular/cli`
 
 Instala **CLI** de manera global en la computadora (Ejecutar en consola).
 
+## Crear nuevo proyecto
+
 `ng new my-app`
 
 Crea un nuevo proyecto, donde **my-app**, sera el nombre personalizado de nuestro nuevo proyecto, tambien puedes usar `ng n my-app`.
+
+```
+? Would you like to add Angular routing? (y/N)
+```
+Puedes responder **N** en principio, luego puedes agregar las rutas manualmente.
+```
+? Which stylesheet format would you like to use? (Use arrow keys)
+> CSS
+SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]
+Sass   [ https://sass-lang.com/documentation/syntax#the-indented-syntax ]
+Less   [ http://lesscss.org                                             ]
+```
+Puedes reponder **CSS** como hoja de estilo, en principio.
+
+## Crear nuevo componente
 
 `ng generate component shared/header` 
 
 Crea un nuevo componente, tambien puedes usar `ng g c shared/header`.
 
+## Crear nuevo servicio
+
 `ng generae service ruta/my-service` 
 
 Crea un nuevo servicio,donde **ruta/my-servivio**, sera la ruta y el nombre personalizado del nuevo servivio, tambien puedes usar `ng g s ruta/my-service`.
 
-`ng serve` 
+## Lanza un servidor
 
-Lanzar servidor.
+- `ng serve` Lanzar servidor.
 
-`ng serve -o` 
-
-Lanzar servidor y abrir el navegador por defecto automáticamente.
+- `ng serve -o` Lanzar servidor y abrir el navegador por defecto automáticamente.
 
 ---
 
