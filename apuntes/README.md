@@ -1,8 +1,6 @@
 
 # Resumen de comandos
 
----
-
 `npm install -g @angular/cli`
 
 Instala **CLI** de manera global en la computadora (Ejecutar en consola).
