@@ -42,7 +42,7 @@ Metodo abreviado.
 ## Crear nuevo servicio
 
 ```
-ng generae service ruta/my-service
+ng generate service ruta/my-service
 ```
 Crea un nuevo servicio, donde **ruta/my-servivio**, será la ruta y el nombre personalizado del nuevo servivio.
 ```
